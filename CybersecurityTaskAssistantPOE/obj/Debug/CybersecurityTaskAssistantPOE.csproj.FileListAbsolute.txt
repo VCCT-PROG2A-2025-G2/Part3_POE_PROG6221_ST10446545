@@ -1,0 +1,11 @@
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\bin\Debug\CybersecurityTaskAssistantPOE.exe.config
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\bin\Debug\CybersecurityTaskAssistantPOE.exe
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\bin\Debug\CybersecurityTaskAssistantPOE.pdb
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\obj\Debug\CybersecurityTaskAssistantPOE.csproj.AssemblyReference.cache
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\obj\Debug\CybersecurityTaskAssistantPOE.Form1.resources
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\obj\Debug\CybersecurityTaskAssistantPOE.Properties.Resources.resources
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\obj\Debug\CybersecurityTaskAssistantPOE.csproj.GenerateResource.cache
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\obj\Debug\CybersecurityTaskAssistantPOE.csproj.CoreCompileInputs.cache
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\obj\Debug\CybersecurityTaskAssistantPOE.exe
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\obj\Debug\CybersecurityTaskAssistantPOE.pdb
+C:\Users\wieha\source\repos\CybersecurityTaskAssistantPOE\obj\Debug\CybersecurityTaskAssistantPOE.QuizForm.resources
